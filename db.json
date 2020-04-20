@@ -1,0 +1,68 @@
+{
+    "product":[
+        {
+            "id": 1,
+            "type": "shirt",
+            "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
+            "image":"https://i.ibb.co/yqGtTTB/item1.jpg",
+            "discount": "false",
+            "price": 495.000
+        },
+        {
+            "id": 2,
+            "type": "shirt",
+            "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
+            "image":"https://i.ibb.co/PTFXsgF/item2.jpg",
+            "discount": "false",
+            "price": 495.000
+        },
+        {
+            "id": 3,
+            "type": "shirt",
+            "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
+            "image": "https://i.ibb.co/BK09LDh/item3.jpg",
+            "discount": "false",
+            "price": 495.000
+        },
+        {
+            "id": 4,
+            "type": "shirt",
+            "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
+            "image": "https://i.ibb.co/V25MJtf/item4.jpg",
+            "discount": "false",
+            "price": 495.000
+        },
+        {
+            "id": 5,
+            "type": "shirt",
+            "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
+            "image": "https://i.ibb.co/0VZ6mDz/item5.jpg",
+            "discount": "false",
+            "price": 495.000
+        },
+        {
+            "id": 6,
+            "type": "shirt",
+            "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
+            "image": "https://i.ibb.co/1Xm5qc5/item6.jpg",
+            "discount": "false",
+            "price": 495.000
+        },
+        {
+            "id": 7,
+            "type": "shirt",
+            "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
+            "image": "https://i.ibb.co/DbwX0X4/item7.jpg",
+            "discount": "false",
+            "price": 495.000
+        },
+        {
+            "id": 8,
+            "type": "shirt",
+            "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
+            "image": "https://i.ibb.co/GQFfjz6/item8.jpg",
+            "discount": "false",
+            "price": 495.000
+        }
+    ]
+}
