@@ -2,7 +2,7 @@
     "product":[
         {
             "id": 1,
-            "type": "shirt",
+            "type": "dress",
             "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-031",
             "image":"https://i.ibb.co/yqGtTTB/item1.jpg",
             "discount": "false",
@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "type": "shirt",
+            "type": "dress",
             "name": "CHÂN VÁY VOAN HOA ĐẸP JS20-021",
             "image":"https://i.ibb.co/PTFXsgF/item2.jpg",
             "discount": "false",
@@ -18,7 +18,7 @@
         },
         {
             "id": 3,
-            "type": "shirt",
+            "type": "dress",
             "name": "CHÂN VÁY TRUMPET ĐẸP JS20-003",
             "image": "https://i.ibb.co/BK09LDh/item3.jpg",
             "discount": "false",
@@ -26,7 +26,7 @@
         },
         {
             "id": 4,
-            "type": "shirt",
+            "type": "dress",
             "name": "CHÂN VÁY ĐUÔI CÁ XẺ TÀ ĐẸP JS20-017",
             "image": "https://i.ibb.co/V25MJtf/item4.jpg",
             "discount": "false",
@@ -34,7 +34,7 @@
         },
         {
             "id": 5,
-            "type": "shirt",
+            "type": "dress",
             "name": "CHÂN VÁY CHỮ A ĐẸP 2020 JS20-018",
             "image": "https://i.ibb.co/0VZ6mDz/item5.jpg",
             "discount": "false",
@@ -42,7 +42,7 @@
         },
         {
             "id": 6,
-            "type": "shirt",
+            "type": "dress",
             "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-036",
             "image": "https://i.ibb.co/1Xm5qc5/item6.jpg",
             "discount": "false",
@@ -50,7 +50,7 @@
         },
         {
             "id": 7,
-            "type": "shirt",
+            "type": "dress",
             "name": "CHÂN VÁY CÔNG SỞ NỮ ĐẸP QS20-038",
             "image": "https://i.ibb.co/DbwX0X4/item7.jpg",
             "discount": "false",
@@ -58,7 +58,7 @@
         },
         {
             "id": 8,
-            "type": "shirt",
+            "type": "dress",
             "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-025",
             "image": "https://i.ibb.co/GQFfjz6/item8.jpg",
             "discount": "false",
@@ -66,7 +66,7 @@
         },
         {
             "id": 9,
-            "type": "shirt",
+            "type": "dress",
             "name": "CHÂN VÁY ÔM CÔNG SỞ ĐẸP JS20-002",
             "image":"https://i.ibb.co/hXRNfWJ/item9.jpg",
             "discount": "true",
@@ -74,7 +74,7 @@
         },
         {
             "id": 10,
-            "type": "shirt",
+            "type": "dress",
             "name": "CHÂN VÁY XÒE CÔNG SỞ ĐẸP JS20-036",
             "image":"https://i.ibb.co/s1Xxr5P/item10.jpg",
             "discount": "true",
@@ -82,7 +82,7 @@
         },
         {
             "id": 11,
-            "type": "shirt",
+            "type": "dress",
             "name": "CHÂN VÁY CHỮ A ĐẸP 2020 JS20-18",
             "image": "https://i.ibb.co/dP27f2K/item11.jpg",
             "discount": "true",
@@ -90,7 +90,7 @@
         },
         {
             "id": 12,
-            "type": "shirt",
+            "type": "dress",
             "name": "ÁO SƠ MI NỮ ĐẸP 2020 AS-044",
             "image": "https://i.ibb.co/VjzwS5P/item12.jpg",
             "discount": "true",
@@ -98,7 +98,7 @@
         },
         {
             "id": 13,
-            "type": "shirt",
+            "type": "dress",
             "name": "ĐẦM REN ĐUÔI CÁ ĐẸP DK20-090",
             "image": "https://i.ibb.co/m0ScfgQ/item13.jpg",
             "discount": "true",
@@ -106,7 +106,7 @@
         },
         {
             "id": 14,
-            "type": "shirt",
+            "type": "dress",
             "name": "ĐẦM REN CÔNG SỞ ĐẸP 2020 DK20-074",
             "image": "https://i.ibb.co/9hF52Hy/item14.jpg",
             "discount": "true",
@@ -114,7 +114,7 @@
         },
         {
             "id": 15,
-            "type": "shirt",
+            "type": "dress",
             "name": "ĐẦM XÒE CÔNG SỞ DK20-027",
             "image": "https://i.ibb.co/Htx9wDZ/item15.jpg",
             "discount": "true",
@@ -122,10 +122,66 @@
         },  
         {
             "id": 16,
-            "type": "shirt",
+            "type": "dress",
             "name": "ĐẦM HAI DÂY ĐẸP 2020 DK20-039",
             "image": "https://i.ibb.co/0QPyrNv/item16.jpg",
             "discount": "true",
+            "price": 1589.000
+        },
+        {
+            "id": 17,
+            "type": "dress",
+            "name": "ÁO SƠ MI NỮ ĐẸP AS20-017",
+            "image": "https://i.ibb.co/DKs5wjk/item17.jpg",
+            "price": 1589.000
+        },
+        {
+            "id": 18,
+            "type": "dress",
+            "name": "ÁO SƠ MI NỮ ĐẸP AS20-018",
+            "image": "https://i.ibb.co/g4wLpRb/item18.jpg",
+            "price": 1589.000
+        },
+        {
+            "id": 19,
+            "type": "dress",
+            "name": "ÁO SƠ MI NỮ ĐẸP AS20-019",
+            "image": "https://i.ibb.co/Bj3tHMt/item19.jpg",
+            "price": 1589.000
+        },
+        {
+            "id": 20,
+            "type": "dress",
+            "name": "ÁO SƠ MI NỮ ĐẸP AS20-020",
+            "image": "https://i.ibb.co/ZYk2yT8/item20.jpg",
+            "price": 1589.000
+        },
+        {
+            "id": 21,
+            "type": "dress",
+            "name": "ÁO SƠ MI NỮ ĐẸP AS20-021",
+            "image": "https://i.ibb.co/4YFYyHR/item21.jpg",
+            "price": 1589.000
+        },
+        {
+            "id": 22,
+            "type": "dress",
+            "name": "ÁO SƠ MI NỮ ĐẸP AS20-022",
+            "image": "https://i.ibb.co/0QKKX55/item22.jpg",
+            "price": 1589.000
+        },
+        {
+            "id": 23,
+            "type": "dress",
+            "name": "ÁO SƠ MI NỮ ĐẸP AS20-023",
+            "image": "https://i.ibb.co/BNgjr9B/item23.jpg",
+            "price": 1589.000
+        },
+        {
+            "id": 24,
+            "type": "dress",
+            "name": "ÁO SƠ MI NỮ ĐẸP AS20-024",
+            "image": "https://i.ibb.co/tsbcdLF/item24.jpg",
             "price": 1589.000
         }
     ]
