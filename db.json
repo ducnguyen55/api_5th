@@ -187,30 +187,30 @@
         {
             "id": 25,
             "type": "set",
-            "name": "ÁO SƠ MI NỮ ĐẸP AS20-025",
-            "image": "https://i.ibb.co/8rcF1Kd/item25.jpg",
-            "price": 1589.000
+            "name": "SET BỘ HỌA TIẾT ĐẸP DB20-025",
+            "image": "https://i.ibb.co/mt0Ssrs/item33.jpg",
+            "price": 579.000
         },
         {
             "id": 26,
             "type": "set",
-            "name": "ÁO SƠ MI NỮ ĐẸP AS20-026",
-            "image": "https://i.ibb.co/Fsn4z1z/item26.jpg",
-            "price": 1589.000
+            "name": "SET BỘ HỌA TIẾT ĐẸP DB20-026",
+            "image": "https://i.ibb.co/Qrj9HPv/item34.jpg",
+            "price": 899.000
         },
         {
             "id": 27,
             "type": "set",
-            "name": "ÁO SƠ MI NỮ ĐẸP AS20-027",
-            "image": "https://i.ibb.co/LksCsFh/item27.jpg",
-            "price": 1589.000
+            "name": "SET BỘ HỌA TIẾT ĐẸP DB20-027",
+            "image": "https://i.ibb.co/zrMMsWP/item35.jpg",
+            "price": 699.000
         },
         {
             "id": 28,
             "type": "set",
-            "name": "ÁO SƠ MI NỮ ĐẸP AS20-020",
-            "image": "https://i.ibb.co/mNVXjSb/item28.jpg",
-            "price": 1589.000
+            "name": "SET BỘ HỌA TIẾT ĐẸP DB20-020",
+            "image": "https://i.ibb.co/bgqsJZn/item36.jpg",
+            "price": 759.000
         }
     ]
 }
